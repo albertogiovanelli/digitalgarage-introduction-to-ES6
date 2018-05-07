@@ -1,3 +1,6 @@
+import '../css/style.css';
+// Load the full build.
+const _ = require('lodash');
 console.log("Hello World!");
 
 const controlLogin = () => {
